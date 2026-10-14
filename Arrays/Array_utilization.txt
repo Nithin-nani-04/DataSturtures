@@ -1,0 +1,54 @@
+
+--- ARRAY OPERATIONS ---
+1. Insert
+2. Delete
+3. Traverse
+4. Search
+5. Update
+6. Display memory addresses
+7. Exit
+Enter choice: Enter index and value: Element inserted.
+
+--- ARRAY OPERATIONS ---
+1. Insert
+2. Delete
+3. Traverse
+4. Search
+5. Update
+6. Display memory addresses
+7. Exit
+Enter choice: Enter index and value: Element inserted.
+
+--- ARRAY OPERATIONS ---
+1. Insert
+2. Delete
+3. Traverse
+4. Search
+5. Update
+6. Display memory addresses
+7. Exit
+Enter choice: Enter index and value: Element inserted.
+
+--- ARRAY OPERATIONS ---
+1. Insert
+2. Delete
+3. Traverse
+4. Search
+5. Update
+6. Display memory addresses
+7. Exit
+Enter choice: 
+Index   Value   Address
+0       1       0x623072f18040
+1       2       0x623072f18044
+2       3       0x623072f18048
+
+--- ARRAY OPERATIONS ---
+1. Insert
+2. Delete
+3. Traverse
+4. Search
+5. Update
+6. Display memory addresses
+7. Exit
+Enter choice: 
